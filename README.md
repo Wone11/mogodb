@@ -3,3 +3,21 @@
 # advanced mongodb course tutors for mid senior software engineers
 
 ->First class 
+
+# define terms
+
+=>MongoDB :   -> based on the noSQL document store mode
+              -> Data stored as JSON or NSON
+              -> High performance 
+              -> High scalability 
+              -> no SQL injection
+=> Documents: -> A single entity data in the mongodb
+              -> Embeded subdocuments
+              -> BSON --> field : value pairs
+              -> Maximum size of 16MB
+
+Collections : -> Group of documents
+              -> Similar to table in traditional SQL db
+              
+
+               
