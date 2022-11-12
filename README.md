@@ -32,8 +32,7 @@ Collections : -> Group of documents
                
 # Data types 
  
- |        Data Type                 |
-          :-------:
+           Data Type                 
  | Double      |     null           |
  |-------------|--------------------|
  | String      | Regular Expression |
