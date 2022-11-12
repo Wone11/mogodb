@@ -26,11 +26,17 @@ Collections : -> Group of documents
           Data Type                
  |-------------|--------------------|
  | Double      |     null           |
+  |-------------|--------------------|
  | String      | Regular Expression |
+ |-------------|--------------------|
  | Object      | JavaScript         |
+ |-------------|--------------------|
  | Array       |                    |
+ |-------------|--------------------|
  | Binary Data |JS(With Scope)      |
+ |-------------|--------------------|
  | Object ID   | 32-bit intiger     |
+ |-------------|--------------------|
  | Boolean     | Timestamp          |
  |-------------|--------------------|
  | Date        | 64-bit intrgrt     |
