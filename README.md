@@ -24,9 +24,9 @@ Collections : -> Group of documents
 # Data types 
  
           Data Type                
- |-------------|--------------------|
+ 
  | Double      |     null           |
-  |-------------|--------------------|
+ |-------------|--------------------|
  | String      | Regular Expression |
  |-------------|--------------------|
  | Object      | JavaScript         |
