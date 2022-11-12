@@ -48,3 +48,12 @@ Collections : -> Group of documents
  |             |                    |
  | Date        | 64-bit intrgrt     |
  |             |                    |
+
+
+ # Aggregations : 
+ 
+      --> It is a way of processing a large number of documents in a collection by means of passing them through different stages.
+      
+      --> The stages make up is known as pipelines
+
+      --> The stage in pipeline can  filter, sort, group, reshape, and modify documents that pass through the pipelines.
