@@ -40,7 +40,7 @@ Collections : -> Group of documents
  |             |                    |
  | Object      | JavaScript         |
  |             |                    |
- | Array       |                    |
+ | Array       |   Symbol           |
  |             |                    |
  | Binary Data |JS(With Scope)      |
  |             |                    |
